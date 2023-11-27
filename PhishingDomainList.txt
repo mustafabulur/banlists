@@ -19,3 +19,5 @@ crm.ciceksepeti.com
 bounce.mail.lidl.de
 corp.mail.ru
 lcwaikiki.info
+metamorphglobal.co
+opet.email
